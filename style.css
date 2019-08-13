@@ -1,6 +1,12 @@
 body
 {
+    display: flex;
+	justify-content: center;
+	background-color: pink;
 
-	background-image: url("b.jpeg")
 	
+}
+p{
+	text-align: center;
+	font-size: 40px;
 }
